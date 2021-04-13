@@ -2,7 +2,6 @@ import time
 import random
 # Code By Mustak Ahmed
 # Timestrap : 11 April 2021 at 8.10 p.m
-# Snake Water Gun Game Using Python
 
 
 print("<<<-------- Welcome to Snake-Gun-Water-Game --------->>>\n")
