@@ -1,0 +1,93 @@
+[ Mon Apr 12 01:45:19 2021 ] : < Match Details >
+Player : Mustaq
+Level 01  ::  You Enter s   ||   Computer Taken sLevel 02  ::  You Enter w   ||   Computer Taken sLevel 03  ::  You Enter g   ||   Computer Taken sLevel 04  ::  You Enter s   ||   Computer Taken g
+
+Match 01       Total Level Played : 04
+ Match Status :: Computer won
+ You Entered :   Snake 02   Gun 01   Water 01
+ Computer Taken : Snake 03   Gun 01     Water 00[ Mon Apr 12 01:49:37 2021 ] : < Match Details >
+Player : Mustaq
+Level 01  ::  You Enter s   ||   Computer Taken g   ||    Status : You lose
+Level 02  ::  You Enter w   ||   Computer Taken w   ||    Status : Match Draw
+Level 03  ::  You Enter g   ||   Computer Taken w   ||    Status : You lose
+Level 04  ::  You Enter w   ||   Computer Taken s   ||    Status : You lose
+Level 05  ::  You Enter s   ||   Computer Taken w   || Status : You Won
+Level 06  ::  You Enter g   ||   Computer Taken w   ||    Status : You lose
+
+
+Match 01       Total Level Played : 06
+ Match Status :: Computer won
+ You Entered :   Snake 02   Gun 02   Water 02
+ Computer Taken : Snake 01   Gun 01     Water 04[ Mon Apr 12 01:56:57 2021 ] : < Match Details >
+Player : Mustaq      Match 01
+Level 01  ::  You Enter s   ||   Computer Taken s   ||    Status : Match Draw
+Level 02  ::  You Enter g   ||   Computer Taken s   ||    Status : You Won
+Level 03  ::  You Enter w   ||   Computer Taken g   ||    Status : You Won
+Level 04  ::  You Enter g   ||   Computer Taken s   ||    Status : You Won
+Level 05  ::  You Enter w   ||   Computer Taken g   ||    Status : You Won
+Level 06  ::  You Enter s   ||   Computer Taken s   ||    Status : Match Draw
+
+
+Total Level Played : 06
+Final Status :: Hurry! Mustaq, You have Won
+You Entered :   Snake 02   Gun 02   Water 02
+ Computer Taken : Snake 04   Gun 02     Water 00
+
+
+[ Mon Apr 12 02:00:20 2021 ] : < Match Details >
+Player : Mustaq      Match 01
+Level 01  ::  You Enter s   ||   Computer Taken g   ||    Status : You lose
+Level 02  ::  You Enter w   ||   Computer Taken w   ||    Status : Match Draw
+Level 03  ::  You Enter g   ||   Computer Taken g   ||    Status : Match Draw
+Level 04  ::  You Enter w   ||   Computer Taken g   ||    Status : You Won
+Level 05  ::  You Enter s   ||   Computer Taken w   || Status : You Won
+
+Total Level Played : 05
+Final Status :: Hurry! Mustaq, You have Won
+You Entered :   Snake 02   Gun 01   Water 02
+Computer Taken : Snake 00   Gun 03     Water 02
+
+
+			<<<[ Mon Apr 12 02:02:46 2021 ]>>>
+Match Details::
+Player : Mustaq      Match 01
+Level 01  ::  You Enter s   ||   Computer Taken g   ||    Status : You lose
+Level 02  ::  You Enter w   ||   Computer Taken g   ||    Status : You Won
+Level 03  ::  You Enter g   ||   Computer Taken s   ||    Status : You Won
+Level 04  ::  You Enter s   ||   Computer Taken s   ||    Status : Match Draw
+Level 05  ::  You Enter g   ||   Computer Taken w   ||    Status : You lose
+
+Total Level Played : 05
+Final Status :: Match Tied Up.
+You Entered :   Snake 02   Gun 02   Water 01
+Computer Taken : Snake 02   Gun 02     Water 01
+
+
+				<<<[ Mon Apr 12 02:05:16 2021 ]>>>
+Match Details::
+Player : Mustaq      Match 01
+Level 01  ::  You Enter s   ||   Computer Taken s   ||    Status : Match Draw
+Level 02  ::  You Enter w   ||   Computer Taken s   ||    Status : You lose
+Level 03  ::  You Enter g   ||   Computer Taken s   ||    Status : You Won
+Level 04  ::  You Enter s   ||   Computer Taken s   ||    Status : Match Draw
+
+Total Level Played : 04
+Final Status :: Match Tied Up.
+You Entered :   Snake 02   Gun 01   Water 01
+Computer Taken : Snake 04   Gun 00     Water 00
+
+
+
+				<<<[ Mon Apr 12 02:06:20 2021 ]>>>
+Match Details::
+Player : Mustaq      Match 01
+Level 01  ::  You Enter s   ||   Computer Taken g   ||    Status : You lose
+Level 02  ::  You Enter w   ||   Computer Taken s   ||    Status : You lose
+Level 03  ::  You Enter g   ||   Computer Taken g   ||    Status : Match Draw
+Level 04  ::  You Enter s   ||   Computer Taken w   || Status : You Won
+Level 05  ::  You Enter w   ||   Computer Taken g   ||    Status : You Won
+
+Total Level Played : 05
+Final Status :: Match Tied Up.
+You Entered :   Snake 02   Gun 01   Water 02
+Computer Taken : Snake 01   Gun 03     Water 01

@@ -1,0 +1,15 @@
+
+
+
+
+						<<<[ Mon Apr 12 03:57:32 2021 ]>>>
+Match Details::
+Player : Mustaque      Match 01
+Level 01  ::  You Enter s   ||   Computer Taken w   || Status : You Won
+Level 02  ::  You Enter g   ||   Computer Taken g   ||    Status : Match Draw
+Level 03  ::  You Enter w   ||   Computer Taken s   ||    Status : You lose
+
+Total Level Played : 03
+Final Status :: Match Tied Up.
+You Entered :   Snake 01   Gun 01   Water 01
+Computer Taken : Snake 01   Gun 01     Water 01

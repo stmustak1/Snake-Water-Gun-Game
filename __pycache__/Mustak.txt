@@ -1,0 +1,17 @@
+
+
+
+
+						<<<[ Mon Apr 12 03:31:58 2021 ]>>>
+Match Details::
+Player : Mustak      Match 01
+Level 01  ::  You Enter g   ||   Computer Taken s   ||    Status : You Won
+Level 02  ::  You Enter w   ||   Computer Taken w   ||    Status : Match Draw
+Level 03  ::  You Enter s   ||   Computer Taken g   ||    Status : You lose
+Level 04  ::  You Enter w   ||   Computer Taken s   ||    Status : You lose
+Level 05  ::  You Enter s   ||   Computer Taken s   ||    Status : Match Draw
+
+Total Level Played : 05
+Final Status :: Computer won
+You Entered :   Snake 02   Gun 01   Water 02
+Computer Taken : Snake 03   Gun 01     Water 01

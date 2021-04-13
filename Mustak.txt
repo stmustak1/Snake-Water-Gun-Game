@@ -1,0 +1,89 @@
+Player : Mustak
+Match Details :
+Match 01    Total Level Played : 05
+[ Mon Apr 12 00:27:29 2021 ] : Match Tied Up. Try again Now.
+Player : Mustak
+Match Details :
+Match 01    Total Level Played : 03
+[ Mon Apr 12 00:29:46 2021 ] : Match Tied Up. Try again Now.
+[ Mon Apr 12 00:32:14 2021 ] : Match Details :
+Player : Mustak        Match 01       Total Level Played : 04
+ Oops! Computer Won the Match. Try again Later
+[ Mon Apr 12 00:38:40 2021 ] : Match Details :
+Player : Mustak        Match 01       Total Level Played : 07
+ Match Status :: Hurry! Mustak, You have Won
+
+
+
+[ Mon Apr 12 00:41:32 2021 ] : Match Details :
+Player : Mustak        Match 01       Total Level Played : 03
+ Match Status :: Hurry! Mustak, You have Won
+
+[ Mon Apr 12 01:00:47 2021 ] : Match Details :
+Player : Mustak        Match 01       Total Level Played : 04
+ Match Status :: Hurry! Mustak, You have Won	 Mustak Enters : Snake 01 times   Gun 01   Water 00
+
+[ Mon Apr 12 01:03:03 2021 ] : Match Details :
+Player : Mustak        Match 01       Total Level Played : 05
+ Match Status :: Match Tied Up.
+ Mustak Enters : Snake 03 times   Gun 00   Water 01
+
+[ Mon Apr 12 01:06:22 2021 ] : < Match Details >
+Player : Mustak        Match 01       Total Level Played : 06
+ Match Status :: Hurry! Mustak, You have Won
+ Mustak Enters :   Snake 00   Gun 04   Water 00
+
+[ Mon Apr 12 01:11:22 2021 ] : < Match Details >
+Player : Mustak        Match 01       Total Level Played : 06
+ Match Status :: Hurry! Mustak, You have Won
+ Mustak Enters :   Snake 06   Gun 00   Water 00
+
+[ Mon Apr 12 01:12:13 2021 ] : < Match Details >
+Player : Mustak        Match 01       Total Level Played : 08
+ Match Status :: Computer won
+ Mustak Enters :   Snake 00   Gun 08   Water 00
+
+[ Mon Apr 12 01:22:39 2021 ] : < Match Details >
+Player : Mustak        Match 01       Total Level Played : 08
+ Match Status :: Computer won
+ You Entered :   Snake 03   Gun 03   Water 02
+Computer Entered : Snake 05   Gun 01     Water 02[ Mon Apr 12 01:38:29 2021 ] : < Match Details >
+Player : Mustak
+Level 01  ::  You Enter s   ||   Computer Taken sLevel 02  ::  You Enter g   ||   Computer Taken gLevel 03  ::  You Enter w   ||   Computer Taken sLevel 04  ::  You Enter w   ||   Computer Taken sLevel 05  ::  You Enter w   ||   Computer Taken sLevel 06  ::  You Enter s   ||   Computer Taken w
+
+Match 01       Total Level Played : 06
+ Match Status :: Computer won
+ You Entered :   Snake 02   Gun 01   Water 03
+ Computer Taken : Snake 04   Gun 01     Water 01
+
+
+
+						<<<[ Mon Apr 12 02:09:43 2021 ]>>>
+Match Details::
+Player : Mustak      Match 01
+Level 01  ::  You Enter s   ||   Computer Taken s   ||    Status : Match Draw
+Level 02  ::  You Enter g   ||   Computer Taken s   ||    Status : You Won
+Level 03  ::  You Enter w   ||   Computer Taken w   ||    Status : Match Draw
+Level 04  ::  You Enter g   ||   Computer Taken s   ||    Status : You Won
+Level 05  ::  You Enter w   ||   Computer Taken w   ||    Status : Match Draw
+
+Total Level Played : 05
+Final Status :: Hurry! Mustak, You have Won
+You Entered :   Snake 01   Gun 02   Water 02
+Computer Taken : Snake 03   Gun 00     Water 02
+
+
+
+						<<<[ Mon Apr 12 03:16:52 2021 ]>>>
+Match Details::
+Player : Mustak      Match 01
+Level 01  ::  You Enter s   ||   Computer Taken g   ||    Status : You lose
+Level 02  ::  You Enter w   ||   Computer Taken w   ||    Status : Match Draw
+Level 03  ::  You Enter g   ||   Computer Taken s   ||    Status : You Won
+Level 04  ::  You Enter w   ||   Computer Taken s   ||    Status : You lose
+Level 05  ::  You Enter g   ||   Computer Taken w   ||    Status : You lose
+
+Total Level Played : 05
+Final Status :: Computer won
+You Entered :   Snake 01   Gun 02   Water 02
+Computer Taken : Snake 02   Gun 01     Water 02
