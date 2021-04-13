@@ -8,7 +8,7 @@ import random
 print("<<<-------- Welcome to Snake-Gun-Water-Game --------->>>\n")
 match_no = 1
 print(" Type :\n \ts for snake\n \tw for water\n \tg for gun\n")
-human = input("Enter Your Name : ")
+human = input("Enter Your Full Name : ")
 
 
 while(1):
